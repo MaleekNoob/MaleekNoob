@@ -1,3 +1,5 @@
+<img src= "github-readme-picture.png" alt= "github-profile-picture">
+
 # Hi there 👋 I'm Maleek Hussain Ali. 
 
 ## Software Engineering Student at FAST NUCES Islamabad.
