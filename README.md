@@ -27,7 +27,7 @@
 
 <h2>Projects</h2>
 <ul>
-  <li><a href="https://github.com/MaleekNoob/cpp-program">Project 1</a></li>
-  <li><a href="https://github.com/MaleekNoob/game-project">Project 2</a></li>
+  <li><a href="https://github.com/MaleekNoob/cpp-programs">Project 1</a></li>
+  <li><a href="https://github.com/MaleekNoob/game_project">Project 2</a></li>
   <li><a href="https://github.com/MaleekNoob/Hotel-management">Project 3</a></li>
 </ul>
