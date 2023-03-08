@@ -5,7 +5,7 @@
 <p>I'm a software engineer with a passion for coding and a love for open-source. Currently, I study at FAST NUCES, Islamabad and in my free time, I contribute to various open-source projects.</p>
 
 
-- 🔭 I’m currently working on Lab Task 7
+- 🔭 I’m currently working on Lab Task 8
 - 🌱 I’m currently learning Algorithms in c++
 - 👨‍💻 I’m looking to collaborate on SHAPAR along with [abdulrafayoc](https://github.com/abdulrafayoc)
 - 🤔 I’m looking for help with Dijkstra Algorithm
