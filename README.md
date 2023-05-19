@@ -8,16 +8,15 @@
 - 🔭 I’m currently working on Lab Task 13
 - 🌱 I’m currently learning Object Oriented Programming in c++
 - 👨‍💻 I’m looking to collaborate on SHAPAR along with [abdulrafayoc](https://github.com/abdulrafayoc)
-- 🤔 I’m looking for help with Minimax Algorithm
-- 💬 Ask me about how many legs a cat has
-- 📫 How to reach me: maleekhussainali456@gmail.com
-- ⚡ Fun fact: I strive for Data Structures
+- 🤔 I’m looking for help with Aggregation and Composition.
+- 💬 Ask me about how many legs a cat has.
+- 📫 How to reach me: maleekhussainali456@gmail.com.
 
 <h2>Skills</h2>
 <ul>
-  <li>Programming languages: JavaScript, Python, Ruby, etc.</li>
-  <li>Frameworks: React, Angular, Ruby on Rails, etc.</li>
-  <li>Tools: Git, GitHub, VSCode, etc.</li>
+  <li>Programming languages: JavaScript, Python, c++, etc.</li>
+  <li>Frameworks: React, Electron js etc.</li>
+  <li>Tools: Git, GitHub, VSCode, Microsoft Visual Studio, etc.</li>
 </ul>
 
 <h2>GitHub Stats</h2>
