@@ -5,10 +5,10 @@
 <p>I'm a software engineer with a passion for coding and a love for open-source. Currently, I study at FAST NUCES, Islamabad and in my free time, I contribute to various open-source projects.</p>
 
 
-- 🔭 I’m currently working on Lab Task 13
-- 🌱 I’m currently learning Object Oriented Programming in c++
-- 👨‍💻 I’m looking to collaborate on SHAPAR along with [abdulrafayoc](https://github.com/abdulrafayoc)
-- 🤔 I’m looking for help with Aggregation and Composition.
+- 🔭 I’m currently working on Nothing
+- 🌱 I’m currently learning Data Structures
+- 👨‍💻 I’m looking to collaborate on SHAPAR 1.01 along with [abdulrafayoc](https://github.com/abdulrafayoc)
+- 🤔 I’m looking for help with Tensorflow.
 - 💬 Ask me about how many legs a cat has.
 - 📫 How to reach me: maleekhussainali456@gmail.com.
 
