@@ -10,14 +10,7 @@
   </ul>
 </div> 
 
-<p>I'm a software engineer with a passion for coding and a love for open-source. Currently, I study at FAST NUCES, Islamabad, and in my free time, I contribute to various open-source projects.</p>
-
-
-- 🔭 I’m currently working on an AI-based Video Assistant Project.
-- 🌱 I’m currently understanding core Machine Learning Models.
-- 👨‍💻 I’m looking to collaborate on SHAPAR along with [abdulrafayoc](https://github.com/abdulrafayoc)
-- 🤔 I’m looking for help with Tensorflow, Pytorch, and other AI technologies.
-- 📫 How to reach me: maleekhussainali456@gmail.com.
+<p>I work with distributed systems managing hundreds upon thousands of requests per second. I manage database optimizations, inter service communication, APIs and infrastructure. I also work with advance AI operations, inference, deployments and model packaging, vector database embeddings and queries and retrieval optimization.</p>
 
 <p align="center">
   <!--- stats (start) -->
